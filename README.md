@@ -16,7 +16,7 @@ A note-taker website. Users can create and save notes into a database.
 JavaScript, node.js, JSON, Heroku
 
 ## Screenshots
-<img alt= "Terminal Screenshot" src = https://github.com/AndrewBlanchard/Express-Note-Taker/blob/master/Assets/Screenshots/Heroku%20App%20Activity%20Feed.png>
+<img alt= "Terminal Screenshot" src = https://github.com/AndrewBlanchard/Express-Note-Taker/blob/master/Assets/Screenshots/Terminal%20Heroku%20Apps.png>
 <img alt= "Heroku Deployed Screenshot" src = https://github.com/AndrewBlanchard/Express-Note-Taker/blob/master/Assets/Screenshots/Heroku%20App%20Activity%20Feed.png>
 
 ## Sources
