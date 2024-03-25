@@ -7,9 +7,6 @@
 - [License](#license)
 
 ## Description
-
-INCOMPLETE - I am having issues with Heroku. I have scheduled a tutoring session to address the issues I am having. I just wanted to have a repo and code to submit. 
-
 A note-taker website. Users can create and save notes into a database. 
 
 ## Installation
