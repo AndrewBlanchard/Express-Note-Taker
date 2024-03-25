@@ -10,19 +10,21 @@
 
 INCOMPLETE - I am having issues with Heroku. I have scheduled a tutoring session to address the issues I am having. I just wanted to have a repo and code to submit. 
 
-A note taker website. Users can create and save notes into a database. 
+A note-taker website. Users can create and save notes into a database. 
 
 ## Installation
 JavaScript, node.js, JSON, Heroku
 
 ## Screenshots
+<img alt= "Terminal Screenshot" src = https://github.com/AndrewBlanchard/Express-Note-Taker/blob/master/Assets/Screenshots/Terminal%20Heroku%20Apps.png>
+<img alt= "Heroku Deployed Screenshot" src = https://github.com/AndrewBlanchard/Express-Note-Taker/blob/master/Assets/Screenshots/Heroku%20App%20Activity%20Feed.png>
 
 ## Sources
 Heroku Documentation https://devcenter.heroku.com/articles/git
 
 mdn Express.js Documentation https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction
 
-refered to this tutorial as well https://www.youtube.com/watch?v=SccSCuHhOw0 
+referred to this tutorial as well https://www.youtube.com/watch?v=SccSCuHhOw0 
 
 ## License
 
