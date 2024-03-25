@@ -5,12 +5,12 @@ const path = require('path');
 const router = express.Router();
 
 function getNotes() {
-    const data = fs.readFileSync('db.json', 'utf8');
+    const data = fs.readFileSync('db/db.json', 'utf8');
     return JSON.parse(data);
 }
 
 function writeNotes(notes) {
-    fs.writeFileSync('db.json', JSON.stringify(notes), 'utf8');
+    fs.writeFileSync('db/db.json', JSON.stringify(notes), 'utf8');
 }
 
 //Get notes
